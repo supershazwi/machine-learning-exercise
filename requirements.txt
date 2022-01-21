@@ -7,7 +7,7 @@ cycler==0.10.0
 dask==1.2.2
 decorator==4.4.0
 idna==2.8
-ipython==7.5.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.14.0
 kiwisolver==1.1.0
